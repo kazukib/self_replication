@@ -1,2 +1,2 @@
 # self_replication
-iinspiré par les vexations d'Eric Satie
+iinspiré par "Vexations" d'Eric Satie
